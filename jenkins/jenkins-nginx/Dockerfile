@@ -1,4 +1,4 @@
-FROM centos:centos7
+FROM centos:7.5.1804
 LABEL maintainer="mstewart@riotgames.com"
 
 # Install NGINX
